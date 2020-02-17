@@ -1,6 +1,6 @@
 # jampp_data_analytics
 
-Repository with Jampp's exercises solutions
+Repository with Jampp's exercises solved
 
 ## Authors
 
